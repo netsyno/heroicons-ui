@@ -1,0 +1,16 @@
+{
+  "name": "heroicons-ui",
+  "version": "1.0.0",
+  "description": "npm package for Steve Schogers Heroicons UI",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/netsyno/heroicons-ui"
+  },
+  "keywords": [
+    "icons",
+    "svg icons",
+    "heroicons ui"
+  ],
+  "author": "Josef Roth <jr@netsyno.com>",
+  "license": "MIT"
+}
